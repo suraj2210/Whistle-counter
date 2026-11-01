@@ -1,0 +1,6 @@
+{
+  "name": "Whistle Counter",
+  "description": "Smart pressure cooker whistle counter with real-time acoustic whistle detection, target whistle alerts, cooking presets, and timer tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
